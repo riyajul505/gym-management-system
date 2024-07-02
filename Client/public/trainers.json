@@ -1,0 +1,122 @@
+[
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4567",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "experience": 5,
+    "bio": "Alice has been teaching yoga for 5 years and specializes in Hatha and Vinyasa styles.",
+    "expertise": ["Hatha Yoga", "Vinyasa Yoga"],
+    "specialization": "Yoga",
+    "certifications": ["RYT-500", "Certified Yoga Therapist"],
+    "image": "https://images.unsplash.com/photo-1601422407692-ec4eeec1d9b3?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Monday", "time": "08:00", "isBooked": false, "bookedBy": null},
+      {"day": "Wednesday", "time": "18:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4568",
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "experience": 3,
+    "bio": "Bob is a cardio specialist with a focus on high-energy workouts.",
+    "expertise": ["Cardio", "HIIT"],
+    "specialization": "Cardio",
+    "certifications": ["ACE Certified Personal Trainer", "HIIT Specialist"],
+    "image": "https://plus.unsplash.com/premium_photo-1663039984151-8165ea8b879f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Tuesday", "time": "07:00", "isBooked": false, "bookedBy": null},
+      {"day": "Thursday", "time": "12:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4569",
+    "name": "Carol Davis",
+    "email": "carol.davis@example.com",
+    "experience": 7,
+    "bio": "Carol has extensive experience in Pilates and rehabilitation exercises.",
+    "expertise": ["Pilates", "Rehabilitation"],
+    "specialization": "Pilates",
+    "certifications": ["Certified Pilates Instructor", "Rehab Specialist"],
+    "image": "https://plus.unsplash.com/premium_photo-1664910812137-9ac7c9820551?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Monday", "time": "09:00", "isBooked": false, "bookedBy": null},
+      {"day": "Friday", "time": "17:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4570",
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "experience": 10,
+    "bio": "David is a strength training expert with a decade of experience.",
+    "expertise": ["Strength Training", "Bodybuilding"],
+    "specialization": "Strength Training",
+    "certifications": ["NSCA Certified Strength and Conditioning Specialist", "Certified Bodybuilding Coach"],
+    "image": "https://plus.unsplash.com/premium_photo-1664475838396-1dca5b83abcb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Wednesday", "time": "10:00", "isBooked": false, "bookedBy": null},
+      {"day": "Saturday", "time": "15:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4571",
+    "name": "Eva Wilson",
+    "email": "eva.wilson@example.com",
+    "experience": 6,
+    "bio": "Eva is passionate about high-intensity interval training and fitness bootcamps.",
+    "expertise": ["HIIT", "Bootcamp"],
+    "specialization": "HIIT",
+    "certifications": ["Certified HIIT Instructor", "Bootcamp Specialist"],
+    "image": "https://images.unsplash.com/photo-1546483875-ad9014c88eba?q=80&w=1982&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Thursday", "time": "06:00", "isBooked": false, "bookedBy": null},
+      {"day": "Sunday", "time": "19:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4572",
+    "name": "Frank Martinez",
+    "email": "frank.martinez@example.com",
+    "experience": 4,
+    "bio": "Frank is a CrossFit coach who loves pushing his clients to their limits.",
+    "expertise": ["CrossFit", "Functional Training"],
+    "specialization": "CrossFit",
+    "certifications": ["CrossFit Level 1 Trainer", "Functional Movement Specialist"],
+    "image": "https://plus.unsplash.com/premium_photo-1663072219408-577d9fcee81e?q=80&w=1798&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Friday", "time": "11:00", "isBooked": false, "bookedBy": null},
+      {"day": "Monday", "time": "16:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4573",
+    "name": "Grace Lee",
+    "email": "grace.lee@example.com",
+    "experience": 8,
+    "bio": "Grace is an enthusiastic dance fitness instructor with a love for Zumba.",
+    "expertise": ["Dance Fitness", "Zumba"],
+    "specialization": "Dance Fitness",
+    "certifications": ["Zumba Certified Instructor", "Dance Fitness Specialist"],
+    "image": "https://plus.unsplash.com/premium_photo-1661284988708-4227cab18938?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Saturday", "time": "05:30", "isBooked": false, "bookedBy": null},
+      {"day": "Sunday", "time": "20:00", "isBooked": false, "bookedBy": null}
+    ]
+  },
+  {
+    "userId": "64cbb1c2d5f00e6e5f8b4574",
+    "name": "Henry White",
+    "email": "henry.white@example.com",
+    "experience": 9,
+    "bio": "Henry is a cycling instructor with years of experience in indoor and outdoor cycling.",
+    "expertise": ["Cycling", "Endurance Training"],
+    "specialization": "Cycling",
+    "certifications": ["Certified Cycling Instructor", "Endurance Training Specialist"],
+    "image": "https://images.unsplash.com/photo-1513352098199-8ccf457b35a8?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "availableSlots": [
+      {"day": "Tuesday", "time": "06:00", "isBooked": false, "bookedBy": null},
+      {"day": "Thursday", "time": "18:00", "isBooked": false, "bookedBy": null}
+    ]
+  }
+]
